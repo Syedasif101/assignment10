@@ -1,0 +1,125 @@
+    .logo 
+      {
+        width: 150px;
+        
+      }
+      .facebook{
+        width: 2em;
+        margin: 5px;
+        float: right;
+        
+      }
+
+      ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+      }
+      
+      li {
+        float: left;
+      }
+      
+      li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      
+      
+      li a:hover {
+        background-color: #111;
+      }
+
+      .back 
+      {
+        background-color: rgb(193, 225, 165);
+        
+      }
+      .head 
+      {
+        width: 30%;
+        margin-left: 35%;
+       
+        
+      }
+      .box1 {
+        width: 15rem;
+        
+        border: 2px solid rgb(255, 255, 255);
+        background-color: rgb(239, 234, 234);
+        padding: 20px;
+        margin: 10px;
+      }
+      h2 {
+        text-align: center;
+      }
+      .box4 {
+        display: inline-flex;
+        margin-left: 10em;
+      }
+      .box5 {
+        width: 40%;
+        
+        
+        padding: 20px;
+        margin: 2em;
+        
+        margin-left: 14%;
+        background-color: rgb(239, 234, 234);
+      }
+      div nav ul{
+
+       float: right;
+       display: grid;
+       width: 40%;
+       margin-top: -27em;
+       padding-top: 5%;
+       padding-bottom: 5%;
+       
+       
+      }
+      .final{
+        display:inline-flex;
+        margin-left: 30%;
+       
+       
+      }
+      .b1{
+        border: 2% solid rgb(254, 254, 254);
+        text-align: center;
+        padding: 10%;
+        margin: 2%;
+        background-color: aqua;
+        
+
+
+      }
+    
+    .b2{
+      border: 2px solid rgb(255, 255, 255);
+      text-align: center;
+      padding: 10%;
+      margin: 2%;
+      background-color: rgb(198, 248, 72);
+
+    }
+    .b3{
+      border: 2% solid rgb(255, 255, 255);
+      text-align: center;
+      padding: 10%;
+      margin: 2%;
+      background-color: rgb(236, 236, 90);
+    }
+    .b4{
+      border: 2% solid rgb(255, 255, 255);
+      text-align: center;
+      padding: 10%;
+      margin: 2%;
+      background-color: rgb(247, 77, 219);
+      
+    }
